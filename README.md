@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/)](https://www.linkedin.com/in/mariana-campos-br/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mariana%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/)](https://www.linkedin.com/in/mariana-campos-br/) 
+[![Gmail Badge](https://img.shields.io/badge/-Entre%20em%20Contato-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
