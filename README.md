@@ -1,5 +1,6 @@
-# Olá, muito prazer!! 👋
-## Meu nome é Mariana Cristina
+##
+# Seja Bem-Vindo(a)! 👋
+## Me chamo Mariana Cristina, muito prazer!
 Sou estudante de **Engenharia da Computação** e começando recentemente minha carreira como **Dev. Java Full Stack Júnior**.
 
 - 📍 **Franca-SP -** Brasil;
