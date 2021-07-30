@@ -1,10 +1,10 @@
 <h2>Seja Bem-Vindo(a)! 👋</h2>
-<img align="right" width="400" height="400" src="https://i.imgur.com/b9SrCp0.png">
+<img align="right" width="400" height="400" src="https://i.imgur.com/LUahfvL.png">
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
 
-- 📍 <b>Franca-SP -</b> Brasil;
-- 🧡Apaixonada na tecnologia por completo e em aprender coisas novas;
+-  <b>🏡 Franca-SP -</b> Brasil;
+- 💛Apaixonada na tecnologia por completo e em aprender coisas novas;
 -  👩‍💻 Dev. <i>FullStack</i>;
 
 <hr>
@@ -14,4 +14,4 @@
 <hr>
 <h4>Contatos</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-D49339?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/)](https://www.linkedin.com/in/mariana-campos-br/) [![Gmail Badge](https://img.shields.io/badge/-Email-DDA15E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-606c38?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=551691910506)](https://api.whatsapp.com/send?phone=551691910506)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-D1F11C?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mariana-campos-br/)](https://www.linkedin.com/in/mariana-campos-br/) [![Gmail Badge](https://img.shields.io/badge/-Email-EEEF20?style=flat-square&logo=Gmail&logoColor=black&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-D1F11C?style=flat-square&logo=WhatsApp&logoColor=black&link=https://api.whatsapp.com/send?phone=551691910506)](https://api.whatsapp.com/send?phone=551691910506)
