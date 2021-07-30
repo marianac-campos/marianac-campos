@@ -1,10 +1,13 @@
-<h2>Seja Bem-Vindo(a)! 👋</h2>
+<div>
+<div><h2>Seja Bem-Vindo(a)! 👋</h2>
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
 
 - 📍 <b>Franca-SP -</b> Brasil;
 - 🧡Apaixonada na tecnologia por completo e em aprender coisas novas;
--  👩‍💻 Dev. <i>FullStack</i>;
+-  👩‍💻 Dev. <i>FullStack</i>;</div>
+<div><img src="https://i.imgur.com/b9SrCp0.png"></div>
+</div>
 
 <hr>
 <h4>Habilidades Técnicas</h4>
