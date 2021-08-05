@@ -1,5 +1,4 @@
-
-<iframe src="https://giphy.com/embed/1YfBz5TnsrqEGOJwc0" width="480" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/1YfBz5TnsrqEGOJwc0">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/69722854/128425574-c1956af7-17ac-4b4f-8af3-3d5e27be3e39.gif)
 
 <h2>Seja Bem-Vindo(a)! 👋</h2>
 <img align="right" width="400" height="400" src="https://i.imgur.com/LUahfvL.png">
