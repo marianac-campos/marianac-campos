@@ -1,5 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/69722854/128425574-c1956af7-17ac-4b4f-8af3-3d5e27be3e39.gif)
-
+<h2>Olá, Seja Bem-Vindo(a)!</h2>
 <img align="right" width="400" height="400" src="https://i.imgur.com/LUahfvL.png">
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
@@ -16,3 +15,5 @@
 <h4>Contatos</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-D1F11C?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mariana-campos-br/)](https://www.linkedin.com/in/mariana-campos-br/) [![Gmail Badge](https://img.shields.io/badge/-Email-EEEF20?style=flat-square&logo=Gmail&logoColor=black&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-D1F11C?style=flat-square&logo=WhatsApp&logoColor=black&link=https://api.whatsapp.com/send?phone=551691910506)](https://api.whatsapp.com/send?phone=551691910506)
+
+![giphy](https://user-images.githubusercontent.com/69722854/128425574-c1956af7-17ac-4b4f-8af3-3d5e27be3e39.gif)
