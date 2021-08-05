@@ -1,4 +1,5 @@
-<h2>![giphy](https://user-images.githubusercontent.com/69722854/128425574-c1956af7-17ac-4b4f-8af3-3d5e27be3e39.gif)</h2>
+![giphy](https://user-images.githubusercontent.com/69722854/128425574-c1956af7-17ac-4b4f-8af3-3d5e27be3e39.gif)
+
 <img align="right" width="400" height="400" src="https://i.imgur.com/LUahfvL.png">
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
