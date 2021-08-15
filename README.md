@@ -1,6 +1,5 @@
 <h2>Olá, Seja Bem-Vindo(a)!</h2>
 
-<div>
 <img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
 
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
@@ -9,7 +8,6 @@
 - <b> Franca-SP -</b> Brasil 🏡
 - Apaixonada na tecnologia por completo e em aprender coisas novas 💜
 - Dev. FullStack Java 👩‍💻
-</div>
 
 <hr>
 
