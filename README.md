@@ -12,7 +12,7 @@
 
 <hr>
 
-<div align-items="d-flex">
+<div display="inline">
 <div>
 <h3>Front-End</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
