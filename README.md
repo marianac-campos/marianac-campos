@@ -1,7 +1,7 @@
 <h2>Olá, Seja Bem-Vindo(a)!</h2>
 
 <div>
-<img src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
+<img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
 
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
