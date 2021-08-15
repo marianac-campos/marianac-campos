@@ -6,9 +6,9 @@
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
 <p>Fique a vontade para conhecer os projetos que faço durante os estudos e os que faço no meu tempo livre</p>
 
-- <h3> Franca-SP - Brasil 🏡 </h3> 
-- <h3> Apaixonada na tecnologia e em aprender coisas novas 💜 </h3>
-- <h3> Dev. FullStack Java 👩‍💻 </h3>
+- <h4> Franca-SP - Brasil 🏡 </h4> 
+- <h4> Apaixonada na tecnologia e em aprender coisas novas 💜 </h4>
+- <h4> Dev. FullStack Java 👩‍💻 </h4>
 
 <hr>
 
