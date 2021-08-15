@@ -1,13 +1,13 @@
 <h2>Olá, Seja Bem-Vindo(a)!</h2>
 
-<img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="280">
+<img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
 
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
 
--  <b>🏡 Franca-SP -</b> Brasil;
--  💜 Apaixonada na tecnologia por completo e em aprender coisas novas;
--  👩‍💻 Dev. <i>FullStack</i>;
+-  <b> Franca-SP -</b> Brasil 🏡
+- Apaixonada na tecnologia por completo e em aprender coisas novas 💜
+-  Dev. FullStack Java 👩‍💻
 
 <hr>
 
@@ -32,6 +32,6 @@
 <hr>
 <img width="500" height="282" src="https://i.imgur.com/ThQj11G.gif">
 <div>
-<a href="https://www.linkedin.com/in/mariana-campos-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-08ECFB?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/"></a> <a href="https://api.whatsapp.com/send?phone=551691910506" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-59007B?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=551691910506"></a> <a href="mailto:marianacristinadecampos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E346B9?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com"></a>
+<a href="https://www.linkedin.com/in/mariana-campos-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4FBDC8?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/"></a> <a href="https://api.whatsapp.com/send?phone=551691910506" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-59007B?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=551691910506"></a> <a href="mailto:marianacristinadecampos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E346B9?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com"></a>
 </div>
 </div>
