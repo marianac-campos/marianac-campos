@@ -1,5 +1,5 @@
-<h1 align="center">Oii, Seja Bem-Vindo(a)!</h1>
-<h2 align="center">Me chamo Mariana, muito prazer!</h2>
+<h1 align="center">Oii, Seja Bem-Vindo(a)</h1>
+<h2 align="center">Me chamo Mariana, muito prazer 👋</h2>
 
 <img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
 
