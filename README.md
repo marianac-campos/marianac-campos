@@ -1,6 +1,6 @@
 <h2>Olá, Seja Bem-Vindo(a)!</h2>
 
-<img align="right" width="250" height="292" src="https://i.imgur.com/zG3sk9p.png">
+<img align="right" width="250" height="250" src="https://i.imgur.com/zG3sk9p.png">
 
 <h3>Me chamo Mariana Cristina, muito prazer!</h3>
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
@@ -32,6 +32,6 @@
 </div>
 <hr>
 
-<img align="center" width="724" height="282" src="https://i.imgur.com/ThQj11G.gif">
+<img width="500" height="282" src="https://i.imgur.com/ThQj11G.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-08ECFB?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/) ](https://www.linkedin.com/in/mariana-campos-br/) [![WhatsApp Badge](https://img.shields.io/badge/Whatsapp-59007B?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=551691910506)](https://api.whatsapp.com/send?phone=551691910506) [![Gmail Badge](https://img.shields.io/badge/Email-E346B9?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com)](mailto:marianacristinadecampos@gmail.com)
