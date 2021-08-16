@@ -12,9 +12,7 @@
 
 <hr>
 
-| FrontEnd | Backend | 
-| --------------- | --------------- | 
-| <img src="https://i.imgur.com/loQ78Sx.jpg" width="200" height="150"/> | <img src="https://i.imgur.com/akZNZyQ.jpg" width="200" height="152"/> |
+<img src="https://i.imgur.com/loQ78Sx.jpg" width="350" height="150"/> | <img src="https://i.imgur.com/akZNZyQ.jpg" width="350" height="152"/> |
 
 <hr>
 
