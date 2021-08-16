@@ -12,7 +12,7 @@
 
 <hr>
 
-Solarized dark             |  <h3>Front-End</h3>  
+<h3>Front-End</h3>    |  <h3>Back-End</h3>
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
@@ -26,7 +26,7 @@ Solarized dark             |  <h3>Front-End</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/>
 </div>
 <div align="center">
-<h3>Back-End</h3>
+
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/>
