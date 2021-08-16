@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/5PdKl64.png" width="400" height="272">
+<img align="right" src="https://i.imgur.com/5PdKl64.png" width="400" height="300">
 
 <h1>Oii, Seja Bem-Vindo(a)</h1>
 <h2>Me chamo Mariana, muito prazer 👋</h2>
