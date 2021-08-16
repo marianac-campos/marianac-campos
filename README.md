@@ -17,7 +17,7 @@
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <div display="inline-block">
-<div align="center">
+<div align="center" float="left">
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="52" height="52"/>
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/>
 </div>
-<div align="center">
+<div align="center" float="right">
 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
