@@ -12,10 +12,9 @@
 
 <hr>
 
-<table align="center" border="none">
-<tr>
+<table align="center" border-radius="none">
 <td>
-<h3>Frontend</h3>
+<h3 align="center">Frontend</h3>
 <hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="52" height="52"/>
@@ -24,14 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/>
 </td>
 <td>
-<h3>Backend</h3>
+<h3 align="center">Backend</h3>
 <hr>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="mysql" width="52" height="52"/>
 </td>
-</tr>
 </table>
 
 <hr>
