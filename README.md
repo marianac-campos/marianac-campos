@@ -23,7 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/>
 </td>
-  
 <td>
 <h3>Backend</h3>
 <hr>
@@ -31,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="mysql" width="52" height="52"/>
-
 </td>
 </tr>
 </table>
