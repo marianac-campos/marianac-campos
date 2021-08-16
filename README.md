@@ -12,7 +12,7 @@
 
 <hr>
 
-<h3>Front-End</h3>         |  <h3>Back-End</h3>
+<h3>Front-End</h3>         | <h3>Back-End</h3>
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)   |  ![](https://...Ocean.png)
 
