@@ -12,13 +12,13 @@
 
 <hr>
 
-Solarized dark             |  Solarized Ocean
+Solarized dark             |  <h3>Front-End</h3>  
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <div display="inline-block">
 <div align="center">
-<h3>Front-End</h3>   
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="52" height="52"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/>
