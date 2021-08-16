@@ -12,7 +12,7 @@
 
 <hr>
 
-<div align-items="center">
+<div>
 <div align="center" display="inline">
 <h3>Front-End</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
