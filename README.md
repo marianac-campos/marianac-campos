@@ -29,10 +29,14 @@
 </div>
 
 <hr>
+
+<div align="center">
 <h3>Outros</h3>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="52" height="52"/>
+</div>
+  
 <hr>
 
 <div align="center">
