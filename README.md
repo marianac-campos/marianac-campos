@@ -12,7 +12,6 @@
 
 <hr>
 
-<div>
 <div align="center" display="inline">
 <h3>Front-End</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
@@ -27,7 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="mysql" width="52" height="52"/>
-</div>
 </div>
 
 <hr>
