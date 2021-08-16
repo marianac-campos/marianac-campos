@@ -12,7 +12,7 @@
 
 <hr>
 
-<div style='display:flex'>
+<div style="display:flex">
 <div>
 <h3>Front-End</h3>
 <hr>
