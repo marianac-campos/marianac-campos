@@ -12,7 +12,7 @@
 
 <hr>
 
-<table align="center" style="border:none">
+<table align="center" border="none">
 <tr>
 <td>
 <h3>Frontend</h3>
