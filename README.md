@@ -1,10 +1,10 @@
-<img align="right" src="https://i.imgur.com/5PdKl64.png" width="280" height="272">
+<img align="right" src="https://i.imgur.com/5PdKl64.png" width="400" height="272">
 
 <h1>Oii, Seja Bem-Vindo(a)</h1>
 <h2>Me chamo Mariana, muito prazer 👋</h2>
 
 <p>Sou estudante de <b>Engenharia da Computação</b> e começando recentemente minha carreira como <b>Dev. Java Full Stack Júnior</b>.</p>
-<p>Fique a vontade para conhecer os projetos que faço durante os estudos e os que faço no meu tempo livre</p>
+<p>Aqui você vai conhecer os projetos que faço durante os estudos, fique a vontade para usar e compartilhar!</p>
 
 - Franca-SP - Brasil 🏡 
 - Apaixonada na tecnologia e em aprender coisas novas 💜
@@ -12,25 +12,9 @@
 
 <hr>
 
-<div display="flex">
-<div>
-<h3>Front-End</h3>
-<hr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="52" height="52"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/>
-</div>
-<div>
-<h3>Back-End</h3>
-<hr>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="mysql" width="52" height="52"/>
-</div>
-</div>
+| FrontEnd | Backend | 
+| --------------- | --------------- | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="52" height="52"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="52" height="52"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="52" height="52"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="52" height="52"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="52" height="52"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="mysql" width="52" height="52"/> | 
 
 <hr>
 
