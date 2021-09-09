@@ -12,6 +12,7 @@
 
 <hr>
 
+<div align="center">
 <img width="500" height="282" src="https://i.imgur.com/ThQj11G.gif">
 <div>
 <a href="https://www.linkedin.com/in/mariana-campos-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4FBDC8?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mariana-campos-br/"></a> <a href="https://api.whatsapp.com/send?phone=551691910506" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-59007B?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=551691910506"></a> <a href="mailto:marianacristinadecampos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E346B9?style=flat&logo=Gmail&logoColor=white&link=mailto:marianacristinadecampos@gmail.com"></a>
