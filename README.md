@@ -8,4 +8,4 @@
 
 - Belo Horizonte-MG - Brasil 🏡 
 - Apaixonada na tecnologia e em aprender coisas novas 💜
-- Dev. FullStack Java e JS 👩‍💻
+- Dev. FullStack Java e NodeJs 👩‍💻
